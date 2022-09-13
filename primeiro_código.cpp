@@ -7,4 +7,8 @@
  // Comando #include permite a inclusão de bibliotecas
 
 # include <iostream>
-
+int main(){
+    
+    cout<<"Olá, Mundo!";
+    return 0;
+}
